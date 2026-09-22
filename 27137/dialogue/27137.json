@@ -1,0 +1,75 @@
+{
+  "timestamp": "20260922_192157",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Balancing Act",
+      "leads": [
+        "John",
+        "Noel"
+      ],
+      "reasoning": "This scene highlights the tension between John and Hank, as well as Noel's anxiety about being late for his date with Sierra.",
+      "scene": "The dimly lit conference room is cluttered with equipment. A large projector screen dominates one wall, displaying John’s presentation slides. The air hums with anticipation. Hank stands in the corner, arms crossed, an unwelcome presence. Noel nervously glances at both the clock and John, whispering urgent words to Sierra, who beams back reassuringly.",
+      "dialogue": [
+        {
+          "character": "John",
+          "line": "Alright, guys, let’s get started! I can already tell we’re going to make a splash with these new strategies.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Hey now, those were essential for keeping everyone focused!",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Focus, Noel, focus.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Clock's ticking... almost there...",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "We won't know until we try them out. Plus, I heard the tech stuff is pretty cool too... right John?",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Absolutely! And hey, Hank, maybe next time you can skip the grumpy face and let us have some snacks.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27137",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "John",
+        "Noel"
+      ],
+      "had_source_material": false
+    }
+  ]
+}
