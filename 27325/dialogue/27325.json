@@ -1,0 +1,138 @@
+{
+  "timestamp": "20260922_001517",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Clash of Approaches",
+      "leads": [
+        "Hank",
+        "John"
+      ],
+      "reasoning": "This scene showcases the conflict between two different problem-solving styles, leading to an unexpected revelation that ties into their professional and personal lives.",
+      "scene": "",
+      "dialogue": [
+        {
+          "character": "Hank",
+          "line": "Young man, I could show you a thing or two about efficiency.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "You've got some learning to do, Captain.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Efficiency? Really? That’s what we’re calling it these days?",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Captain, maybe we should be talking about cooperation instead.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Cooperation? You mean like sharing snacks during briefings?",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "That's right! And don't forget, it works both ways—sharing information too.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Information. Right. Because in my day, we just used our noses.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Sure, but at least now we have technology to back us up!",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Technology. Oh yes, it’s all very well for the kids who know how to use it.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "And here I thought you were just grumpy because of your age.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Age? Age is nothing compared to years of experience.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Experience that doesn’t keep pace with the times. Captain,",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "This case has taught me a lot. About teamwork and patience, if not anything else.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "I guess that means you’ve finally seen the light?",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Not quite. But hey, you’re starting to annoy me less. So there’s progress.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27325",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 15,
+      "speakers": [
+        "Hank",
+        "John"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

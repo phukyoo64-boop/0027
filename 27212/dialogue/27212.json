@@ -1,0 +1,89 @@
+{
+  "timestamp": "20260922_001336",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Unlikely Allies",
+      "leads": [
+        "Noel",
+        "Sierra"
+      ],
+      "reasoning": "This scene highlights the contrasting personalities and motivations of Noel and Sierra in preparing for an emergency situation despite orders from Hank.",
+      "scene": "The dimly lit alleyway is filled with shadows and the faint sound of sirens. The unconscious girl lies on the ground, surrounded by paramedic equipment. Noel discreetly checks the kit, while Sierra tends to her quietly. Hank stands nearby, looking stern, and John expresses frustration about working without pay. A small group of firefighters are present but silent, watching.",
+      "dialogue": [
+        {
+          "character": "Sierra",
+          "line": "She’s barely breathing, Noel. We need to be ready.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "I know, Si. Just double-checking everything—never hurts to be prepared.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "You heard him, right? Keep it low profile. Can’t risk a riot tonight.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "I’m not planning any riots here. Just making sure my kit won’t let us down if we do end up needing it.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "Focus, John. Focus! Think of the overtime you’ll earn for this one night.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Sir, just ensuring our readiness in case… well, anything unexpected might happen.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "Like Hank would approve of us being over-prepared? He’d probably have a heart attack from the paperwork alone.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Probably so, but better safe than sorry. Right, Si?",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27212",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 8,
+      "speakers": [
+        "Noel",
+        "Sierra"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

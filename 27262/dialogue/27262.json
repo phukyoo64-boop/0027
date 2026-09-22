@@ -1,0 +1,89 @@
+{
+  "timestamp": "20260922_001424",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Clash at the Crime Scene",
+      "leads": [
+        "Noel",
+        "Hank"
+      ],
+      "reasoning": "This scene captures the tension between Noel’s professionalism and Hank’s stern approach through dialogue that highlights both characters' distinct voices and motives.",
+      "scene": "",
+      "dialogue": [
+        {
+          "character": "Noel",
+          "line": "Alright, everyone, let's keep it together here.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "You're doing well, kid. Just remember, we don't have time for chit-chat.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "I'm not a kid, Captain. I know my stuff, but maybe you should chill out a bit?",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "And if you could just try to be less intimidating for Sierra? She's trying her best with the girl over there.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Intimidating? We’re in a goddamn emergency! Everyone needs to step up their game!",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Yeah, except this isn’t about who gets the lollipop first.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Snacks? John, focus on the case, not your sugar intake.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Look, we all need to work together here. But I can only keep quiet so long before my blood pressure starts boiling.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27262",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 8,
+      "speakers": [
+        "Hank",
+        "Noel"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

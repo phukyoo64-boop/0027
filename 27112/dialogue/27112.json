@@ -1,0 +1,82 @@
+{
+  "timestamp": "20260922_001159",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "All Together Now",
+      "leads": [
+        "Noel",
+        "Sierra"
+      ],
+      "reasoning": "This scene captures the urgency between Sierra and Noel by leveraging their intimate knowledge of each other and the situation at hand, adding emotional depth to their interaction.",
+      "scene": "The sound of sirens fades into distant echoes in the background. The dimly lit bathroom stalls are eerily quiet except for the occasional whisper from behind stall doors.",
+      "dialogue": [
+        {
+          "character": "Sierra",
+          "line": "Quick, before they see us.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "What’s going on? What do you need?",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "Look at me like I’m gonna disappear any second now.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "I got it. Just give me a minute.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "She’s unconscious back there. We have to help her. Hurry up!",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Alright, alright. You stay here. Don’t move.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "You heard me, Noel. Let's go.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27112",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Noel",
+        "Sierra"
+      ],
+      "had_source_material": true
+    }
+  ]
+}

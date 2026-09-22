@@ -1,0 +1,117 @@
+{
+  "timestamp": "20260922_001323",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Crossroads",
+      "leads": [
+        "Hank",
+        "John"
+      ],
+      "reasoning": "This scene focuses on the tension between two different law enforcement officers' methods of dealing with a case. Hank represents traditional policing tactics, while John embodies a more modern approach that emphasizes community engagement.",
+      "scene": "The briefing room is dimly lit by flickering fluorescent lights. HANK sits at the head of a long table, scowling. JOHN stands next to him, hands in pockets, looking eager but slightly uneasy.",
+      "dialogue": [
+        {
+          "character": "Hank",
+          "line": "You think you can just waltz into a crime scene like it’s some kind of charity event?",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Hey, we need to talk to people. People are key witnesses here.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Witnesses get scared off when they see you handing out free chips and candy. It's about authority.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Free snacks have led to important tips before! Besides, we’re working together, right?",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Right, because ‘working together’ doesn’t mean giving up your command presence.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Command presence is good for intimidation, not actually solving cases. We need actual information.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Information comes from fear and respect, not from bags of Doritos.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Doritos? Really, Captain? I thought you were the one who preferred Kevlar over common sense.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Kevlar has no taste, unlike my preference in coffee. And now, if you'll excuse me, I'm going to pretend none of this ever happened.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Well, it’s always fun to be underestimated. Except when it leads to a cold case.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "That’s why we’re doing things the right way.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Oh yeah, because tradition and old-school tactics are known for clearing up crimes faster than ever before.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27200",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 12,
+      "speakers": [
+        "Hank",
+        "John"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

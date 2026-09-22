@@ -1,0 +1,89 @@
+{
+  "timestamp": "20260922_001451",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Clash of Approaches",
+      "leads": [
+        "Hank",
+        "John"
+      ],
+      "reasoning": "This scene focuses on the conflict between two contrasting characters—Hank, the gruff police captain, and John, the principled rookie officer—with Noel maintaining an unspoken presence in the background.",
+      "scene": "The office is dimly lit by the late afternoon light, casting long shadows across the cluttered desks. Papers are scattered everywhere. Two chairs sit awkwardly in one corner, where a presentation about the ongoing investigation into a series of arson cases is set up. John has just arrived, carrying a bag filled with snacks, which he places beside him with a smirk.",
+      "dialogue": [
+        {
+          "character": "Hank",
+          "line": "Alright, kid, what do you think you’re doing? This isn’t some classroom lecture.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "I’m trying to be thorough, sir. And it helps if we have something to snack on during the tedious part.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "We don't need your condescending humor here. Stick to the facts.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Facts can get boring without a little flavor, right?",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "You're lucky I'm not making this easy for the brass to move you along.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Oh, come on! You know me better than that.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Tell me why I should believe anything you say then, if all you care about is doughnuts and your own ass.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Hey, at least my sugar intake keeps me sharp. And who knows, maybe one day you’ll appreciate snacks too.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27300",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 8,
+      "speakers": [
+        "Hank",
+        "John"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

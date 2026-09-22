@@ -1,0 +1,82 @@
+{
+  "timestamp": "20260922_001528",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Unconscious Girl",
+      "leads": [
+        "Noel",
+        "Sierra"
+      ],
+      "reasoning": "This scene focuses on Noel and Sierra, showing their dynamic and the subtle tension between them in a high-stress situation. It also builds towards a significant revelation that ties into their relationship and professional roles.",
+      "scene": "The dimly lit alley is quiet except for the occasional crunch of gravel underfoot. The air crackles with unease as several people mill about, all eyes on an unconscious girl lying on the ground, covered only by her jacket. A faint siren wails off in the distance.",
+      "dialogue": [
+        {
+          "character": "Sierra",
+          "line": "Hush now, honey. We're going to get you out of here.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "(whispering) You got it, Si. Just watch 'em; they’re like vultures waiting for us to make our move.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "They might not be too happy if we take any longer, you know?",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "I’m sure Hank will be thrilled when he sees I’ve lost his badge somewhere down this alley.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "Oh, come on, Noel. At least pretend to care, okay?",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Alright, alright. I'm trying my best to look concerned. Honest.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "You're doing great... just keep your back straight and pretend like you don't have a secret agent vibe going on.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27337",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Noel",
+        "Sierra"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "timestamp": "20260922_001151",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Unconscious Girl",
+      "leads": [
+        "Sierra",
+        "Hank"
+      ],
+      "reasoning": "This scene focuses on Sierra's decision-making process and her interaction with the stern Captain Hank, building up to the big reveal of hiding in the men’s bathroom.",
+      "scene": "INT. CONFERENCE ROOM - DAY\nThe conference room is dimly lit, with papers scattered everywhere. A faint hum can be heard from somewhere off-screen.\nNOEL, the younger fire captain, stands by a window, looking out at the chaos outside. SIERRA, his girlfriend, rushes in, visibly shaken.",
+      "dialogue": [
+        {
+          "character": "Sierra",
+          "line": "Noel! I found an unconscious girl down there.",
+          "cast_type": "canonical",
+          "raw_name": "SIERRA",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "I tried waking her but she didn't respond. She was barely breathing.",
+          "cast_type": "canonical",
+          "raw_name": "SIERRA",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "But what if he doesn’t believe us?",
+          "cast_type": "canonical",
+          "raw_name": "SIERRA",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Body? You mean this one?",
+          "cast_type": "canonical",
+          "raw_name": "HANK",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "Captain…",
+          "cast_type": "canonical",
+          "raw_name": "SIERRA",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "You stay right where you are, young lady.",
+          "cast_type": "canonical",
+          "raw_name": "HANK",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "Please, Captain. We have a case on our hands and we need your help.",
+          "cast_type": "canonical",
+          "raw_name": "SIERRA",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Yeah, yeah. But first, let’s see how eager you kids really are about saving lives.",
+          "cast_type": "canonical",
+          "raw_name": "HANK",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "We were just trying to make sure…",
+          "cast_type": "canonical",
+          "raw_name": "SIERRA",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "Okay...",
+          "cast_type": "canonical",
+          "raw_name": "SIERRA",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "I can't see them anymore. They must be gone now.",
+          "cast_type": "canonical",
+          "raw_name": "SIERRA",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "That girl was still lying there when I left the room.",
+          "cast_type": "canonical",
+          "raw_name": "SIERRA",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "She's in the second floor men’s bathroom. I hid her before the police came through.",
+          "cast_type": "canonical",
+          "raw_name": "SIERRA",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27100",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 13,
+      "speakers": [
+        "Hank",
+        "Sierra"
+      ],
+      "had_source_material": true
+    }
+  ]
+}

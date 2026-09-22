@@ -1,0 +1,131 @@
+{
+  "timestamp": "20260922_001218",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Sweet Temptation",
+      "leads": [
+        "John",
+        "Hank"
+      ],
+      "reasoning": "This scene captures John's frustration and determination through humorous dialogue, building tension between him and the gruff police captain.",
+      "scene": "The camera is set up in a conference room where John stands before it, ready for an intense presentation. Noel and Sierra are present but silent, standing off to the side. Hank watches from afar, arms crossed, looking disapprovingly at John who is munching on a piece of candy.",
+      "dialogue": [
+        {
+          "character": "John",
+          "line": "Alright folks, here’s what we need to do!",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "(muttering) Oh no, not another one.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "We're gonna take this case to the next level! And you know what I'm bringing? Snacks!",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Snacks? Really, John?",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Yeah, listen up. Let me tell my story while I chomp away. Trust me; it’ll make the presentation ten times better.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Trust me, man. Now, as log line number 1: The world needs love but doesn’t always see its own reflection.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "(pausing for a bite of candy)",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "And here's where we come in. Ooh, let the light in. You know it’s true.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "(tapping his foot)",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Now, onto part two… And yeah, I do want these candies. That’s one big thing I don’t like about working for free anymore. Anyone who says they never crave a treat is lying!",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Look at him,",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "turning his light on",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "and letting all that bad door business hear him.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "What? It makes sense! Really think about what I’m saying while you munch away; it’ll be good for your health too!",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27125",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 14,
+      "speakers": [
+        "Hank",
+        "John"
+      ],
+      "had_source_material": true
+    }
+  ]
+}

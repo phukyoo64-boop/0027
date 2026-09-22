@@ -1,0 +1,82 @@
+{
+  "timestamp": "20260922_001307",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Tensions Rise",
+      "leads": [
+        "Hank",
+        "John"
+      ],
+      "reasoning": "This scene sets up the contrasting personalities of Captain Hank and Officer John while hinting at the relationship between Noel and Sierra.",
+      "scene": "The local community center is bustling with activity as an emergency has just been reported. The room is filled with officers and firefighters, including Sierra, who looks on anxiously by Noel’s side.",
+      "dialogue": [
+        {
+          "character": "Hank",
+          "line": "You’re calm? No one would call it that when you show up at a crime scene with half your men missing.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "That was different. We were chasing suspects through a building fire.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Yeah, yeah. Keep telling yourself that.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Control? How about some answers first?",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Look, Captain, every second counts. We need to start investigating immediately.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Investigating or just shooting off your mouth?",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Together my ass! You're still green, kid.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27175",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Hank",
+        "John"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

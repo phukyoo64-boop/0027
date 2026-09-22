@@ -1,0 +1,75 @@
+{
+  "timestamp": "20260922_001553",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Whispers in the Dark",
+      "leads": [
+        "Noel",
+        "Hank"
+      ],
+      "reasoning": "This scene focuses on the tension between Noel and Hank, highlighting their differing approaches while emphasizing the pivotal moment when Noel reveals crucial information.",
+      "scene": "The room is dimly lit by emergency lights, casting eerie shadows. SIERRA stands silently nearby, watching from a corner. HANK pacing back and forth, JONH sits at a table examining evidence, NOEL crouches beside an unconscious GIRL, gently checking her pulse.",
+      "dialogue": [
+        {
+          "character": "Noel",
+          "line": "Sir, can you hear me?",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "What are you doing here, boy? Go get some coffee.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Just making sure she's still with us. And yes, I'm here because I volunteered, unlike someone.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "I just heard something... Wait for it...",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "It was faint, but clear enough to understand. She whispered 'light switch', sir. We need to check that first.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Fine, let's see what this light switch is about before we go chasing ghosts. John, you're coming too; we've got work to do.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27362",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Hank",
+        "Noel"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

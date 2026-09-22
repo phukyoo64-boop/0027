@@ -1,0 +1,82 @@
+{
+  "timestamp": "20260922_001411",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Clash",
+      "leads": [
+        "Hank",
+        "John"
+      ],
+      "reasoning": "This scene highlights the contrasting methods of solving cases between Captain Hank and Officer John, setting up their conflict while incorporating Noel's background as the quieter support in the background.",
+      "scene": "In a dimly lit conference room filled with tension, two maps are laid out on a table. The sound of typing can be heard from Noel, who is diligently working on some reports. Sierra sits quietly nearby, reading through evidence notes.",
+      "dialogue": [
+        {
+          "character": "Hank",
+          "line": "You know what I don't get about you, rookie? You act like the whole city depends on your snacks.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Hey, it’s all part of my presentation strategy! Plus, we’re trying to keep spirits up around here.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Spirits? More like belly fat.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Not if I’m doing my job right. And hey, maybe that’s how we catch our guy – by breaking bread together!",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "That’s the most dangerous kind of thinking for a cop. We deal in facts, not... goodwill.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Anyway, enough talk. Let's go over these leads again before we send out more officers into that mess you call an investigation.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Right behind you, Captain. But first, let me check this one last email and make sure I have everything squared away.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27250",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Hank",
+        "John"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

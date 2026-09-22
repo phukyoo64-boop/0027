@@ -1,0 +1,75 @@
+{
+  "timestamp": "20260922_001605",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Clash of Approaches",
+      "leads": [
+        "Hank",
+        "John"
+      ],
+      "reasoning": "This scene showcases the clash between two different investigative styles, setting up the big reveal in the final beats.",
+      "scene": "In the dimly lit conference room at headquarters, the tension is thick. Hank stands rigid, arms crossed, glaring at John who fidgets nervously under his intense gaze. The other characters are present but silent, their actions described only through dialogue.",
+      "dialogue": [
+        {
+          "character": "Hank",
+          "line": "You know what they say about rookies, John? You can lead a horse to water, but you can't make him drink.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "I prefer to think of it as leading them by example, sir.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Example, my foot! I've seen your work, and it's not exactly stellar. Did you bring any snacks for this little charade?",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Actually, sir, there's a vending machine down the hall if we need anything, but that's beside the point. We're here to solve a case, not snack on bagels all day.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Solve a case with half-assed methods, huh? That unconscious girl you found, Sierra's friend right? She’s still out cold in the morgue, by the way. Maybe she should have been given more attention than an hour ago before she needed medical care.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Sir, her condition was critical when we first arrived. We did our best under difficult circumstances. And, um... thanks for letting me know about Sierra. It might be useful information later.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27375",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Hank",
+        "John"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

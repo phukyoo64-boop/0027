@@ -1,0 +1,75 @@
+{
+  "timestamp": "20260922_001254",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Race for Rescue",
+      "leads": [
+        "Hank",
+        "John"
+      ],
+      "reasoning": "This scene highlights the tension between Captain Hank and Officer John, setting up a dynamic that will play out throughout the story. It also introduces key elements of John’s frustration and Hank’s suspicion.",
+      "scene": "In the dimly lit rubble-filled building where an unconscious girl lies on a makeshift stretcher, the three characters move with purpose but conflicting emotions. The air is thick with sweat and tension.",
+      "dialogue": [
+        {
+          "character": "Hank",
+          "line": "What are you doing here, kid? I thought you were giving us your seminar on doughnuts.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Yeah, well, when lives are at stake, doughnuts can wait.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Nice to see your priorities align so perfectly with mine right now.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "I told you, Sierra. Just be glad we got here in time.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "And just what makes you think I believe that?",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Look, it's not about convincing you. It's about saving someone who might need help right now.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27162",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Hank",
+        "John"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

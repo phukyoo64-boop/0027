@@ -1,0 +1,89 @@
+{
+  "timestamp": "20260922_001503",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Under Pressure",
+      "leads": [
+        "Sierra",
+        "Noel"
+      ],
+      "reasoning": "This scene focuses on strengthening the bond between Sierra and Noel through mutual effort in crisis management, aligning with the plotpoint's arc of unity under pressure.",
+      "scene": "An abandoned warehouse serves as an eerie backdrop for the night scene. The sound of distant sirens can be heard in the distance. Sierra kneels beside an unconscious girl lying on the cold floor, her flashlight beam casting shadows around them. Noel rushes forward, carrying first aid kits, and stops beside Sierra.",
+      "dialogue": [
+        {
+          "character": "Sierra",
+          "line": "Keep your eyes open, okay? We need to make sure she’s still breathing.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Always thought you’d say something like that when we’re rescuing girls from creepy warehouses.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "Shut up and let me do my job, detective.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Hey, at least I’ve got snacks if this were a movie!",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "If it was just any old movie... Well, it wouldn't have you or Hank making things harder for us.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Hank is just trying his best. He doesn’t know what he’s missing with us working together.",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Sierra",
+          "line": "Yeah, yeah. Let's focus on getting her stable before he arrives.",
+          "cast_type": "canonical",
+          "raw_name": "Sierra",
+          "match_score": 1.0
+        },
+        {
+          "character": "Noel",
+          "line": "Agreed. Now, would you mind sharing some of those 'snacks'?",
+          "cast_type": "canonical",
+          "raw_name": "Noel",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27312",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 8,
+      "speakers": [
+        "Noel",
+        "Sierra"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "timestamp": "20260922_001439",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Clash of Perspectives",
+      "leads": [
+        "Hank",
+        "John"
+      ],
+      "reasoning": "This scene showcases the tension between two characters with different methods—Hank, the gruff police captain, and John, the youthful and principled officer. It sets up the conflict that will continue throughout the story.",
+      "scene": "An office in the local precinct is filled with the chatter of other officers going about their business. The walls are lined with framed awards for bravery and efficiency. A large, imposing figure sits behind a cluttered desk; Captain Hank (50s), with his stern expression and worn badge. Across from him stands Officer John (early 30s) nervously pacing back and forth. His presence exudes enthusiasm and optimism but also apprehension at the scrutiny he’s receiving. In an adjacent corner, Noel (late 20s) watches quietly as Sierra (mid-20s) rests on a chair, her supportive gaze focused on John while she fidgets slightly.",
+      "dialogue": [
+        {
+          "character": "Hank",
+          "line": "You're wasting time with your 'feel-good' approach, kid. We need results here.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "I disagree, sir. Empathy can be our strongest tool.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Empathy? I've seen enough people cry over spilled milk to know what works.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "But we don't just solve cases based on fear or suspicion, do we?",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "We solve them using facts, not feelings! And if you want snacks, maybe go grab some cookies instead of arguing.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Sir, my approach has been proven effective in other departments. Let's give it a chance before dismissing it completely.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Effective or not, the way things are going, you'll only get promoted faster by getting us more convictions. Or at least that’s how this department sees it.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "And for those convicted unjustly because of haste and suspicion... where does that leave their lives?",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27275",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 8,
+      "speakers": [
+        "Hank",
+        "John"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

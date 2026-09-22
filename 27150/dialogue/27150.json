@@ -1,0 +1,82 @@
+{
+  "timestamp": "20260922_001244",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Case of the Hidden Girl",
+      "leads": [
+        "Hank",
+        "John"
+      ],
+      "reasoning": "This scene highlights the conflict between Hank’s gruff nature and John's youthful enthusiasm. It also sets up key relationships (like Noel and Sierra) through subtle hints.",
+      "scene": "A dimly lit conference room filled with paperwork and police paraphernalia. The temperature is cold, reflecting the tension in the air. John stands nervously by a window overlooking an empty street outside, sipping on stale coffee. Hank enters from another door, carrying a large box labeled 'snacks'. He stops abruptly upon seeing John.",
+      "dialogue": [
+        {
+          "character": "Hank",
+          "line": "What are you doing, kid? You're supposed to be out there interviewing witnesses.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "I was just—taking a break. I mean, we've been at it all day! Maybe some snacks will help keep me going.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Snacks? You want snacks? Do you realize how much time this case has cost us?",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Hey, when I get hungry, I eat. That’s what my mom taught me.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Your mother must have had bad taste if she thought that was good advice.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Maybe you should get a new advisor, Captain. A less salty one.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Alright, alright. Let's focus. Do you know anything about the girl found in Sierra's alley yesterday?",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27150",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Hank",
+        "John"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

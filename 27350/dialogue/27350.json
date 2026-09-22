@@ -1,0 +1,75 @@
+{
+  "timestamp": "20260922_001540",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Clashing Approaches",
+      "leads": [
+        "Hank",
+        "John"
+      ],
+      "reasoning": "This scene showcases the tension between the gruff police captain and the youthful, principled officer while maintaining the calm presence of Noel in the background.",
+      "scene": "The dimly lit conference room is filled with reports and diagrams scattered on a large table. Noel stands by the window, observing the action without intervening. Sierra sits quietly nearby, her expression a mix of concern and support for Noel.",
+      "dialogue": [
+        {
+          "character": "John",
+          "line": "Captain, we need to think outside the box here! This isn't your typical arson investigation.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "What do you mean 'outside the box'? You're just making things more complicated than they are.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "And I don’t see you doing much outside the box, Captain. Maybe if you weren’t so stuck in your ways…",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Professional my ass. We’re getting nowhere with this free labor nonsense. Stick to your fires, kid.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "I’m working because I care about solving this case, even though no one pays me for it. And trust me, I’ve got some tasty snacks ready for when we hit a wall!",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "You hear that, John? Free labor is for amateurs. Now sit down and shut up until I say otherwise.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27350",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Hank",
+        "John"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

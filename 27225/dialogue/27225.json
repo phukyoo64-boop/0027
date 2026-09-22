@@ -1,0 +1,96 @@
+{
+  "timestamp": "20260922_001350",
+  "cast_names": [
+    "Hank",
+    "John",
+    "Noel",
+    "Sierra"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Clashes of Duty",
+      "leads": [
+        "Hank",
+        "John"
+      ],
+      "reasoning": "This scene highlights the clash between the gruff but suspicious police captain (Hank) and the enthusiastic rookie officer (John). The dialogue should build towards a significant revelation that showcases John's dedication despite challenges.",
+      "scene": "The dimly lit conference room is filled with tension as various law enforcement officers sit around a table, reviewing files on an old oak desk. The air crackles with the impending argument.",
+      "dialogue": [
+        {
+          "character": "Hank",
+          "line": "So you think we solve cases by sitting here eating chips like it’s a goddamn party?",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "I just believe in using every resource available. Chips included.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "You’re young, kid. Too damn naive to know what I’m doing for your own good.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Yeah, well, maybe I am too young to understand how corrupt everything really is.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Corrupt?",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Look at the case file again, Hank. There are inconsistencies in the witness statements and the crime scene evidence. Someone wants us to miss something important.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Inconsistencies... In this town, ain’t nothin' but lies. And that unconscious girl Sierra found? More bullshit from some bored teenager looking to make herself look important.",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        },
+        {
+          "character": "John",
+          "line": "Sierra's name was mentioned in those statements. Maybe she can provide more information when questioned properly.",
+          "cast_type": "canonical",
+          "raw_name": "John",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hank",
+          "line": "Properly my ass! You’re gonna keep your nose clean, John, or you’ll find yourself on the street as fast as a fly on hot pavement!",
+          "cast_type": "canonical",
+          "raw_name": "Hank",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "27225",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 9,
+      "speakers": [
+        "Hank",
+        "John"
+      ],
+      "had_source_material": false
+    }
+  ]
+}
